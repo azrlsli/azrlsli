@@ -18,4 +18,4 @@
 </div>
 
 #### Aproveite e me encontre nas redes sociais:
-[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([linkedin.com/in/ariel-lima-pcd-985a9829b](https://www.linkedin.com/in/ariel-lima-pcd-985a9829b/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariel-lima-pcd-985a9829b/)
