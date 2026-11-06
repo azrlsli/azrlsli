@@ -1,8 +1,14 @@
 ## Olá! Eu sou Ariel! 👨‍💻
 
-#### Sou estudante de Tecnologia Análise e Desenvolvimento de Sistemas no FIAP. Atuo como desenvolvedor Front-End, com foco em tecnologias como HTML, CSS, JavaScript e Bootstrap.
+#### Sou formada em Análise e Desenvolvimento de Sistemas pela FIAP. Durante minha formação, participei de projetos acadêmicos e desafios de inovação em parceria com empresas, envolvendo o desenvolvimento de aplicações, criação de soluções tecnológicas e resolução de problemas reais.
 
-#### Tenho uma forte paixão por tecnologia e estou sempre em busca de novas oportunidades para aprender e crescer na área.
+#### Possuo conhecimentos em HTML, CSS e JavaScript e estou em constante aprendizado em React.js, TypeScript e Next.js, com foco no desenvolvimento de interfaces modernas, responsivas, acessíveis e eficientes.
+
+### Também tenho interesse em desenvolvimento Back-end e Mobile, especialmente Android com Kotlin. Tenho conhecimentos em Java, Python, Spring Boot, criação e consumo de APIs REST, bancos de dados e SQL Oracle.
+
+### Atualmente, estou ampliando meus conhecimentos em Azure DevOps e ferramentas de desenvolvimento, buscando aprender mais sobre processos de desenvolvimento, colaboração em equipe e organização de projetos.
+
+### Busco constantemente aprimorar minhas habilidades técnicas, aprender novas tecnologias e contribuir com projetos e equipes de desenvolvimento de software.
 
 ![Anurag GitHub stats](https://github-readme-stats.vercel.app/api?username=azrlsli&show_icons=true&theme=tokyonight)
 
