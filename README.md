@@ -4,11 +4,11 @@
 
 #### Possuo conhecimentos em HTML, CSS e JavaScript e estou em constante aprendizado em React.js, TypeScript e Next.js, com foco no desenvolvimento de interfaces modernas, responsivas, acessíveis e eficientes.
 
-### Também tenho interesse em desenvolvimento Back-end e Mobile, especialmente Android com Kotlin. Tenho conhecimentos em Java, Python, Spring Boot, criação e consumo de APIs REST, bancos de dados e SQL Oracle.
+#### Também tenho interesse em desenvolvimento Back-end e Mobile, especialmente Android com Kotlin. Tenho conhecimentos em Java, Python, Spring Boot, criação e consumo de APIs REST, bancos de dados e SQL Oracle.
 
-### Atualmente, estou ampliando meus conhecimentos em Azure DevOps e ferramentas de desenvolvimento, buscando aprender mais sobre processos de desenvolvimento, colaboração em equipe e organização de projetos.
+#### Atualmente, estou ampliando meus conhecimentos em Azure DevOps e ferramentas de desenvolvimento, buscando aprender mais sobre processos de desenvolvimento, colaboração em equipe e organização de projetos.
 
-### Busco constantemente aprimorar minhas habilidades técnicas, aprender novas tecnologias e contribuir com projetos e equipes de desenvolvimento de software.
+#### Busco constantemente aprimorar minhas habilidades técnicas, aprender novas tecnologias e contribuir com projetos e equipes de desenvolvimento de software.
 
 ![Anurag GitHub stats](https://github-readme-stats.vercel.app/api?username=azrlsli&show_icons=true&theme=tokyonight)
 
